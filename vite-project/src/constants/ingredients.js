@@ -1,14 +1,72 @@
+
 export const INGREDIENTS = [
   {
-    name: "Bread",
-    src: `https://i5.walmartimages.com/seo/Freshness-Guaranteed-French-Bread-14-oz_fd51f0c3-4eea-4ff1-8109-7770339b6d85.fdba2ce348744cde3840700f5e33f3d3.jpeg`,
+    name: "White Bread",
+    src: "Imgs/whitebread.jpg"
   },
   {
-    name: "Cheese",
-    src: `https://www.allrecipes.com/thmb/iRcip7RaCHF_RmbzDV4bC8gqNYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-504780334-2000-1caaee9e697c40a8935db7b8d9818a85.jpg`,
+    name: "Whole Wheat Bread",
+    src: "Imgs/wwbread.jpg"
   },
   {
-    name: "Beef",
-    src: "https://content.jwplatform.com/thumbs/hfVYn5dF-720.jpg",
+    name: "Bread Roll",
+    src: "Imgs/breadroll.jpg"
+  },{
+    name: "Bread Pudding",
+    src: "Imgs/breadpudding.jpg"
+  },{
+    name: "Ketchup",
+    src: "Imgs/ktchp.jpg"
+  },{
+    name: "Mayo",
+    src: "Imgs/mayo.jpg"
+  },{
+    name: "Mustard",
+    src: "Imgs/mstrd.jpg"
+  },{
+    name: "Hot Sauce",
+    src: "Imgs/htsc.jpg"
+  },{
+    name: "Jelly",
+    src: "Imgs/jlly.jpg"
+  },{
+    name: "Peanut Butter",
+    src: "Imgs/pntbttr.jpg"
+  },{
+    name: "Cheddar Cheese",
+    src: "Imgs/chddr.jpg"
+  },{
+    name: "Swiss Cheese",
+    src: "Imgs/swiss.jpg"
+  },{
+    name: "American Cheese",
+    src: "Imgs/amrcn.jpg"
+  },{
+    name: "Blue Cheese",
+    src: "Imgs/nasty.jpg"
+  },{
+    name: "Tomato",
+    src: "Imgs/tmto.jpg"
+  },{
+    name: "Pickles",
+    src: "Imgs/pckl.jpg"
+  },{
+    name: "Lettuce",
+    src: "Imgs/lttc.jpg"
+  },{
+    name: "Arugula",
+    src: "Imgs/disgustingahh.jpg"
+  },{
+    name: "Turkey",
+    src: "Imgs/trkey.jpg"
+  },{
+    name: "Ham",
+    src: "Imgs/ham.jpg"
+  },{
+    name: "Bacon",
+    src: "Imgs/bcon.jpg"
+  },{
+    name: "Crocodile",
+    src: "Imgs/croco.jpg"
   },
 ];
