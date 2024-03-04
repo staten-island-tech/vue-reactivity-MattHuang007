@@ -59,7 +59,6 @@ header {
 }
 .ingredient {
   height: 100px;
-  width: 100px;
- 
+  object-fit: contain;
 }
 </style>
