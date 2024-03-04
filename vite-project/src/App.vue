@@ -22,7 +22,7 @@ function removeIngredient(index) {
 </script>
 
 <template>
-  <h1>Worlds Lowest Effort Sandwich Maker</h1>
+  <h1>World's Lowest Effort Sandwich Maker</h1>
   <h2>Click image to remove</h2>
   <header>
     <div v-for="ingredient in ingredients">
