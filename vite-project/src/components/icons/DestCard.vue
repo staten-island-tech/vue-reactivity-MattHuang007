@@ -13,15 +13,6 @@
 </template>
 
 <script setup>
-/* import {ref} from "vue";
-const props= defineProps({
-    Destination: Object
-});
-//clicker logic
-const clicked= ref(0);
-function increment(){
-    clicked.value++;
-} */
 const pictures = [
 "./pictures/pckl.jpg",
 "./pictures/wwbread.jpg",
@@ -46,6 +37,9 @@ const pictures = [
 "./pictures/trkey.jpg",
 "./pictures/whitebread.jpg",
 ]
+const ingredientsbtns=
+
+
 </script>
 
 <style scoped>
