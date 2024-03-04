@@ -23,6 +23,7 @@ function removeIngredient(index) {
 
 <template>
   <h1>Worlds Lowest Effort Sandwich Maker</h1>
+  <h2>Click image to remove</h2>
   <header>
     <div v-for="ingredient in ingredients">
       <ItemButton :value="ingredient" @clicked="addIngredient(ingredient)" />
@@ -58,6 +59,7 @@ header {
 }
 .ingredient {
   height: 100px;
-  object-fit: contain;
+  width: 100px;
+ 
 }
 </style>
