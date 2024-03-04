@@ -22,6 +22,7 @@ function removeIngredient(index) {
 </script>
 
 <template>
+  <h1>Worlds Lowest Effort Sandwich Maker</h1>
   <header>
     <div v-for="ingredient in ingredients">
       <ItemButton :value="ingredient" @clicked="addIngredient(ingredient)" />
@@ -35,6 +36,7 @@ function removeIngredient(index) {
   >
     <img :src="ingredient.src" class="ingredient" />
   </div>
+  
 </template>
 
 <style scoped>

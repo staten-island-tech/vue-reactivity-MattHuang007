@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div>
 <h2>{{ Destination.name }}</h2>
 
@@ -10,8 +10,8 @@
     Click Me
 </button>
     </div>
-</template>
-
+</template> -->
+<!-- 
 <script setup>
 const pictures = [
 "./pictures/pckl.jpg",
@@ -46,6 +46,6 @@ const ingredientsbtns=
 img{
     width:300px;
     height:300px;
-    object-fit:cover;
+    objeccd t-fit:cover;
 }
-</style>
+</style> -->
