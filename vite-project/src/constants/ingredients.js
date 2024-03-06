@@ -2,7 +2,7 @@
 export const INGREDIENTS = [
   {
     name: "White Bread",
-    src: "Imgs/whitebread.jpg"
+    src: "http://localhost:5173/Imgs/whitebread.jpg"
   },
   {
     name: "Whole Wheat Bread",
